@@ -34,11 +34,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/denizardaslan/
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -54,8 +54,8 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Deniz Arda Aslan
+    bio: A Man who travels to the future.
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
