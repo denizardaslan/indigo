@@ -14,7 +14,7 @@ description: Overengineering kavramı ve Alman Tiger tankı arasındaki bağlant
 
 ---
 
-## En iyisi mi? Hayır teşekkürler...
+## En iyisi mi? Hayır, teşekkürler...
 
 Not alma ve verimlilik gibi konularla ilgiliyseniz **Notion** isimli uygulamayı büyük ihtimal duymuşsunuzdur. Bilmeyenler içinse Notion, 2018 yılında piyasaya çıkan, not tutmaktan proje yönetimine bir çok kullanım amacını karşılayan çok güçlü bir uygulama. Son bir kaç ayda ise büyük bir kullanıcı kitlesine ulaştığını da eklemek istiyorum.
 
@@ -55,7 +55,9 @@ Aşırı ağır, aşırı komplike süper silahlı tanklar yapmak işe yaramadı
 
 ## Peki sonuç?
 
-Gelelim en başa. Notion overengineering bir ürün müdür bilmiyorum fakat her zaman daha iyisi, en iyisi olmayabiliyor. Kullanım amaçlarımız aslında "en iyi" kavramını şekillendiriyor. Notion iyi bir ürün, ama benim kullanım koşullarımda "en iyisi" değil. Daha vasat ama benim kullanım amacıma daha iyi şekilde hizmet eden ürünün benim için daha iyi olduğuna kanı getirdim. Genel olarak bu hikayeden kendime çıkardığım derste bu oldu. "En iyiyi aramak yerine önce mevcut şartları ve koşulları iyi değerlendir, bazen koşullara en uygun olan senin "kötü" diye etiketlediğin ürün olabiliyor."
+Gelelim en başa. Notion overengineering bir ürün müdür bilmiyorum fakat daha iyisi her zaman **en iyi** olmayabiliyor. Aslında kullanım amaçlarımız "en iyi" kavramını şekillendiriyor. Notion iyi bir ürün, ama benim kullanım koşullarımda "en iyisi" değil. Daha vasat gözüken ama benim kullanım amacıma daha iyi şekilde hizmet eden ürünün benim için daha iyi olduğuna kanı getirdim. Genel olarak bu hikayeden kendime çıkardığım derste bu oldu. 
+
+En iyisi mi? Hayır, teşekkürler...
 
 
 
