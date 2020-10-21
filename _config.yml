@@ -1,9 +1,9 @@
 # main text of home
 name: Deniz Arda Aslan
-bio: engineer, learner, leader, reader...
+bio: engineer, learner, reader...
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Mühendislik, verimlilik ve teknoloji üzerine yazılar.
 
 # if it's an external image, update below for true
 # better with square images
@@ -55,7 +55,7 @@ email: denizardaslan@gmail.com
 authors:
   deniz:
     name: Deniz Arda Aslan
-    bio: A Man who travels to the future.
+    bio: A Man who travels to the somewhere with shortest path.
     external-image: false
     picture: assets/images/profile3.jpg
     twitter: denizardaslan
