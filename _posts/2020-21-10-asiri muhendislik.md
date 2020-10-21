@@ -61,7 +61,7 @@ Gelelim en başa. Notion overengineering bir ürün müdür bilmiyorum fakat her
 
 
 
-Bu yazıdaki kaynaklar:
+Bu yazıyı yazarken yararlandıklarım:
 
 <https://eksisozluk.com/entry/110722745>
 
