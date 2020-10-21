@@ -5,11 +5,11 @@ date: 2020-10-21 21:00
 image: /postphoto/image-20201021203105087.png
 headerImage: false
 tag:
+- engineering
 - worldwar2
-- elements
 star: true
 category: blog
-author: johndoe
+author: deniz
 description: Markdown summary with different options
 ---
 
@@ -28,6 +28,7 @@ Bunun hüsranın temel nedeni ise Notion'ın çok iyi bir uygulama olması. Evet
 Karmaşıklık, Notion dünyasına ilk adımı attığımdan beri peşimi bırakmayın bir şeydi. Yaptığı her işi olabildiğince basit hale getirmeye çalışan şahsım için karmaşık şeylerden ne kadar hoşlandığımı tahmin edebiliyorsunuzdur :) Karmaşıklık gerçekten büyük bir engel, **friction** (verimlilik konusuna ilgiliyseniz bu kavramı araştırmanızı tavsiye ederim, sürtünme diye çevirmek istemedim). Uygulama içerisinde yapacaklarımızın bir sınırının olmayışı, beni sürekli daha karmaşık bir yapıya sürükledi ve friction'ı arttırdı. (O yüzden bazen uygulama limitleri de yararlı olabiliyor. Süreci olabildiğince basit tutup verimi attırmak önemli bir nokta.) Bir diğer sorun ise üzerinde zaman harcamaya çok müsait olması. Şunu şöyle yapayım, burada roket iconu kullanayım, bu sayfanın kapak resmi manzara olsun, burada linked database kullanayım derken bir bakıyorsun saatler geçmiş... **Productivity tool** dediğimiz bu araçların bizim daha verimli çalışmamızı sağlaması gerekirken, Notion benim için bir **unproductivity tool** haline geldi. Uygulamada geçirdiğim vakit artıyor, verimim ise tam tersi istikamette düşüyordu. Bu yüzden cezbedici tüm özelliklerine rağmen Notion'a geçiş denemelerimi sonlandırmaya karar verdim. Aynı sorunlardan tek ben mi müzdaribim derken ise şöyle bir entry'e denk geldim:
 
 
+
 <p align="center">
     <img src="/postphoto/image-20201012215615199.png" alt="image-20201012215615199" style="zoom:80%;" />
 </p>
@@ -40,7 +41,7 @@ Karmaşıklık, Notion dünyasına ilk adımı attığımdan beri peşimi bırak
 Overengineering kavramını açıklamak için en sık kullanılan örneklerden birisi, II.Dünya Savaşı'nda kullanılan King Tiger tankları. 
 
 <p align="center">
-    <img src="/postphoto/image-20201021203105087.png" alt="image-20201021203105087" style="zoom: 67%;" />
+    <img src="/postphoto/image-20201021203105087.png" alt="image-20201021203105087" style="zoom: 50%;" />
 </p>
 
 Hitler'in "ne kadar büyük o kadar iyi" mentalitesini belki duymuşsunuzdur. Bu mentalitenin en büyük eserlerini II.Dünya Savaşı sırasında Nazi Almanyası'nda gördük. 5 tonluk **Panzer** tankı ile başlayan Alman tankları, Ferdinand Porsche'nin yaptığı (evet, Porsche'nin kurucusu) devasa Maus tankına kadar büyüyecekti (10 metre uzunluğunda, 188 ton ağırlığında).
@@ -55,9 +56,9 @@ Aşırı ağır, aşırı komplike süper silahlı tanklar yapmak işe yaramadı
 
 Gelelim en başa. Notion overengineering bir ürün müdür bilmiyorum fakat her zaman daha iyisi, en iyisi olmayabiliyor. Kullanım amaçlarımız aslında "en iyi" kavramını şekillendiriyor. Notion iyi bir ürün, ama benim kullanım koşullarımda "en iyisi" değil. Daha vasat ama benim kullanım amacıma daha iyi şekilde hizmet eden ürünün benim için daha iyi olduğuna kanı getirdim. Genel olarak bu hikayeden kendime çıkardığım derste bu oldu. "En iyiyi aramak yerine önce mevcut şartları ve koşulları iyi değerlendir, bazen koşullara en uygun olan senin "kötü" diye etiketlediğin ürün olabiliyor."
 
-.
 
-.
+
+
 
 Bu yazıdaki kaynaklar:
 
