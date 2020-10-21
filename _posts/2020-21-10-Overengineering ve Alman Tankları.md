@@ -1,3 +1,18 @@
+---
+title: "Overengineering ve Alman Tankları "
+layout: post
+date: 2020-10-21 21:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+star: true
+category: blog
+author: johndoe
+description: Markdown summary with different options
+---
+
 # Overengineering ve Alman Tankları 
 
 ## En iyisi mi? Hayır teşekkürler...
