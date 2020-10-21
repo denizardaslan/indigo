@@ -19,7 +19,9 @@ description: Markdown summary with different options
 
 Not alma ve verimlilik gibi konularla ilgiliyseniz **Notion** isimli uygulamayı büyük ihtimal duymuşsunuzdur. Bilmeyenler içinse Notion, 2018 yılında piyasaya çıkan, not tutmaktan proje yönetimine bir çok kullanım amacını karşılayan çok güçlü bir uygulama. Son bir kaç ayda ise büyük bir kullanıcı kitlesine ulaştığını da eklemek istiyorum.
 
-<img src="/postphoto/image-20201021205041886.png" alt="image-20201021205041886" style="zoom:33%;" />
+<p align="center">
+    <img src="/postphoto/image-20201021205041886.png" alt="image-20201021205041886" style="zoom:33%;" />
+</p>
 
 Benim içinse Notion, çıktığı ilk günden beri kullanmaya çalıştığım, çabaladığım ve en sonunda sürekli pes ettiğim bir uygulama oldu. Defalarca kez bu döngüye girmemin sebebi ise uygulamanın sunduğu özelliklerin oldukça cezbedici olması. Notion'ın çok güçlü bir uygulama olduğunu söylemeliyim. **Evernote, Trello, Excel, Calendar** gibi uygulamaların birleşimi, hatta bazı yerlerde çok daha fazlası. Kendi tabirleriyle **"All-in-one workspace"** bir uygulama. Teker teker bu uygulamalara girmek yerine "all in one" bir uygulama gerçekten çok cezbedici geliyor. Bu sebepten dolayı da defalarca kez Notion'a geçmeye çalıştım fakat sonu hep hüsranla bitti.
 
@@ -28,9 +30,9 @@ Bunun hüsranın temel nedeni ise Notion'ın çok iyi bir uygulama olması. Evet
 Karmaşıklık, Notion dünyasına ilk adımı attığımdan beri peşimi bırakmayın bir şeydi. Yaptığı her işi olabildiğince basit hale getirmeye çalışan şahsım için karmaşık şeylerden ne kadar hoşlandığımı tahmin edebiliyorsunuzdur :) Karmaşıklık gerçekten büyük bir engel, **friction** (verimlilik konusuna ilgiliyseniz bu kavramı araştırmanızı tavsiye ederim, sürtünme diye çevirmek istemedim). Uygulama içerisinde yapacaklarımızın bir sınırının olmayışı, beni sürekli daha karmaşık bir yapıya sürükledi ve friction'ı arttırdı. (O yüzden bazen uygulama limitleri de yararlı olabiliyor. Süreci olabildiğince basit tutup verimi attırmak önemli bir nokta.) Bir diğer sorun ise üzerinde zaman harcamaya çok müsait olması. Şunu şöyle yapayım, burada roket iconu kullanayım, bu sayfanın kapak resmi manzara olsun, burada linked database kullanayım derken bir bakıyorsun saatler geçmiş... **Productivity tool** dediğimiz bu araçların bizim daha verimli çalışmamızı sağlaması gerekirken, Notion benim için bir **unproductivity tool** haline geldi. Uygulamada geçirdiğim vakit artıyor, verimim ise tam tersi istikamette düşüyordu. Bu yüzden cezbedici tüm özelliklerine rağmen Notion'a geçiş denemelerimi sonlandırmaya karar verdim. Aynı sorunlardan tek ben mi müzdaribim derken ise şöyle bir entry'e denk geldim:
 
 
-
-<img src="C:\Users\Deniz\AppData\Roaming\Typora\typora-user-images\image-20201012215615199.png" alt="image-20201012215615199" style="zoom:80%;" />
-
+<p align="center">
+    <img src="/postphoto/image-20201012215615199.png" alt="image-20201012215615199" style="zoom:80%;" />
+</p>
 
 
 ## Nedir bu overengineering?
@@ -39,7 +41,9 @@ Karmaşıklık, Notion dünyasına ilk adımı attığımdan beri peşimi bırak
 
 Overengineering kavramını açıklamak için en sık kullanılan örneklerden birisi, II.Dünya Savaşı'nda kullanılan King Tiger tankları. 
 
-<img src="C:\Users\Deniz\AppData\Roaming\Typora\typora-user-images\image-20201021203105087.png" alt="image-20201021203105087" style="zoom: 67%;" />
+<p align="center">
+    <img src="/postphoto/image-20201021203105087.png" alt="image-20201021203105087" style="zoom: 67%;" />
+</p>
 
 Hitler'in "ne kadar büyük o kadar iyi" mentalitesini belki duymuşsunuzdur. Bu mentalitenin en büyük eserlerini II.Dünya Savaşı sırasında Nazi Almanyası'nda gördük. 5 tonluk **Panzer** tankı ile başlayan Alman tankları, Ferdinand Porsche'nin yaptığı (evet, Porsche'nin kurucusu) devasa Maus tankına kadar büyüyecekti (10 metre uzunluğunda, 188 ton ağırlığında).
 
