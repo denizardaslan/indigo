@@ -1,21 +1,22 @@
 ---
-title: "Overengineering ve Alman Tankları "
+title: "Aşırı Mühendislik "
 layout: post
 date: 2020-10-21 21:00
 image: /postphoto/image-20201021203105087.png
-headerImage: false
+headerImage: True
 tag:
-- engineering
+- mühendislik
 - worldwar2
 star: true
 category: blog
 author: deniz
-description: Markdown summary with different options
+description: Overengineering kavramı ve Alman Tiger tankı arasındaki bağlantıyı ele alan bu yazı, iyi ve kötü kavramlarını yeniden sorgulamamızı sağlıyor.
+
 ---
 
 ## En iyisi mi? Hayır teşekkürler...
 
-Not alma ve verimlilik gibi konularla ilgiliyseniz __Notion__ isimli uygulamayı büyük ihtimal duymuşsunuzdur. Bilmeyenler içinse Notion, 2018 yılında piyasaya çıkan, not tutmaktan proje yönetimine bir çok kullanım amacını karşılayan çok güçlü bir uygulama. Son bir kaç ayda ise büyük bir kullanıcı kitlesine ulaştığını da eklemek istiyorum.
+Not alma ve verimlilik gibi konularla ilgiliyseniz **Notion** isimli uygulamayı büyük ihtimal duymuşsunuzdur. Bilmeyenler içinse Notion, 2018 yılında piyasaya çıkan, not tutmaktan proje yönetimine bir çok kullanım amacını karşılayan çok güçlü bir uygulama. Son bir kaç ayda ise büyük bir kullanıcı kitlesine ulaştığını da eklemek istiyorum.
 
 <p align="center">
     <img src="/postphoto/image-20201021205041886.png" alt="image-20201021205041886" style="zoom:33%;" />
