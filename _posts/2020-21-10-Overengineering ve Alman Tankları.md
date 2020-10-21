@@ -62,12 +62,12 @@ Gelelim en başa. Notion overengineering bir ürün müdür bilmiyorum fakat her
 
 Bu yazıdaki kaynaklar:
 
-https://eksisozluk.com/entry/110722745
+<https://eksisozluk.com/entry/110722745>
 
-https://nationalinterest.org/blog/reboot/meet-hitlers-huge-king-tiger-tank-nazi-germanys-paper-tiger-164232
+<https://nationalinterest.org/blog/reboot/meet-hitlers-huge-king-tiger-tank-nazi-germanys-paper-tiger-164232>
 
-https://eksisozluk.com/entry/30938077
+<https://eksisozluk.com/entry/30938077>
 
-https://en.wikipedia.org/wiki/Panzer_I
+<https://en.wikipedia.org/wiki/Panzer_I>
 
-https://www.youtube.com/watch?v=aAIFQcQ1gd8 (Nazilerin Mega Yapıları - Süper Tanklar Belgeseli)
+<https://www.youtube.com/watch?v=aAIFQcQ1gd8> (Nazilerin Mega Yapıları - Süper Tanklar Belgeseli)
