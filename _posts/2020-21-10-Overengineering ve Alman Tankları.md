@@ -19,7 +19,7 @@ description: Markdown summary with different options
 
 Not alma ve verimlilik gibi konularla ilgiliyseniz **Notion** isimli uygulamayı büyük ihtimal duymuşsunuzdur. Bilmeyenler içinse Notion, 2018 yılında piyasaya çıkan, not tutmaktan proje yönetimine bir çok kullanım amacını karşılayan çok güçlü bir uygulama. Son bir kaç ayda ise büyük bir kullanıcı kitlesine ulaştığını da eklemek istiyorum.
 
-<img src="C:\Users\Deniz\AppData\Roaming\Typora\typora-user-images\image-20201021205041886.png" alt="image-20201021205041886" style="zoom:33%;" />
+<img src="postphoto\image-20201021205041886.png" alt="image-20201021205041886" style="zoom:33%;" />
 
 Benim içinse Notion, çıktığı ilk günden beri kullanmaya çalıştığım, çabaladığım ve en sonunda sürekli pes ettiğim bir uygulama oldu. Defalarca kez bu döngüye girmemin sebebi ise uygulamanın sunduğu özelliklerin oldukça cezbedici olması. Notion'ın çok güçlü bir uygulama olduğunu söylemeliyim. **Evernote, Trello, Excel, Calendar** gibi uygulamaların birleşimi, hatta bazı yerlerde çok daha fazlası. Kendi tabirleriyle **"All-in-one workspace"** bir uygulama. Teker teker bu uygulamalara girmek yerine "all in one" bir uygulama gerçekten çok cezbedici geliyor. Bu sebepten dolayı da defalarca kez Notion'a geçmeye çalıştım fakat sonu hep hüsranla bitti.
 
