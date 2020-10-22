@@ -61,8 +61,6 @@ En iyisi mi? Hayır, teşekkürler...
 .
 .
 .
-.
-.
 Bu yazıyı yazarken yararlandıklarım:
 
 <https://eksisozluk.com/entry/110722745>
