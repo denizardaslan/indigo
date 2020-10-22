@@ -59,7 +59,7 @@ Gelelim en başa. Notion overengineering bir ürün müdür bilmiyorum fakat dah
 
 En iyisi mi? Hayır, teşekkürler...
 
-
+<p>
 Bu yazıyı yazarken yararlandıklarım:
 
 <https://eksisozluk.com/entry/110722745>
@@ -71,3 +71,4 @@ Bu yazıyı yazarken yararlandıklarım:
 <https://en.wikipedia.org/wiki/Panzer_I>
 
 <https://www.youtube.com/watch?v=aAIFQcQ1gd8> (Nazilerin Mega Yapıları - Süper Tanklar Belgeseli)
+</p>
