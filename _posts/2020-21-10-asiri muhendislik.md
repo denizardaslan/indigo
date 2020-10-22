@@ -58,9 +58,8 @@ Aşırı ağır, aşırı komplike süper silahlı tanklar yapmak işe yaramadı
 Gelelim en başa. Notion overengineering bir ürün müdür bilmiyorum fakat daha iyisi her zaman **en iyi** olmayabiliyor. Aslında kullanım amaçlarımız "en iyi" kavramını şekillendiriyor. Notion iyi bir ürün, ama benim kullanım koşullarımda "en iyisi" değil. Daha vasat gözüken ama benim kullanım amacıma daha iyi şekilde hizmet eden ürünün benim için daha iyi olduğuna kanı getirdim. Genel olarak bu hikayeden kendime çıkardığım derste bu oldu. 
 
 En iyisi mi? Hayır, teşekkürler...
-.
-.
-.
+
+
 Bu yazıyı yazarken yararlandıklarım:
 
 <https://eksisozluk.com/entry/110722745>
