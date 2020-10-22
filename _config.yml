@@ -22,7 +22,7 @@ url: https://denizardaslan.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'G-HQKW5D3WFM'
+analytics-google: 'G-HQKW5D3WFM'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
