@@ -2,7 +2,7 @@
 title: "Aşırı Mühendislik "
 layout: post
 date: 2020-10-21 21:00
-image: /postphoto/image-20201021203105087.png
+image: /postphoto/asiri_muhendislik/image-20201021203105087.png
 headerImage: True
 tag:
 - mühendislik
@@ -19,7 +19,7 @@ description: Overengineering kavramı ve Alman Tiger tankı arasındaki bağlant
 Not alma ve verimlilik gibi konularla ilgiliyseniz **Notion** isimli uygulamayı büyük ihtimal duymuşsunuzdur. Bilmeyenler içinse Notion, 2018 yılında piyasaya çıkan, not tutmaktan proje yönetimine bir çok kullanım amacını karşılayan çok güçlü bir uygulama. Son bir kaç ayda ise büyük bir kullanıcı kitlesine ulaştığını da eklemek istiyorum.
 
 <p align="center">
-    <img src="/postphoto/image-20201021205041886.png" alt="image-20201021205041886" style="zoom:33%;" />
+    <img src="/postphoto/asiri_muhendislik/image-20201021205041886.png" alt="image-20201021205041886" style="zoom:33%;" />
 </p>
 
 Benim içinse Notion, çıktığı ilk günden beri kullanmaya çalıştığım, çabaladığım ve en sonunda sürekli pes ettiğim bir uygulama oldu. Defalarca kez bu döngüye girmemin sebebi ise uygulamanın sunduğu özelliklerin oldukça cezbedici olması. Notion'ın çok güçlü bir uygulama olduğunu söylemeliyim. **Evernote, Trello, Excel, Calendar** gibi uygulamaların birleşimi, hatta bazı yerlerde çok daha fazlası. Kendi tabirleriyle **"All-in-one workspace"** bir uygulama. Teker teker bu uygulamalara girmek yerine "all in one" bir uygulama gerçekten çok cezbedici geliyor. Bu sebepten dolayı da defalarca kez Notion'a geçmeye çalıştım fakat sonu hep hüsranla bitti.
@@ -31,7 +31,7 @@ Karmaşıklık, Notion dünyasına ilk adımı attığımdan beri peşimi bırak
 
 
 <p align="center">
-    <img src="/postphoto/image-20201012215615199.png" alt="image-20201012215615199" style="zoom:80%;" />
+    <img src="/postphoto/asiri_muhendislik/image-20201012215615199.png" alt="image-20201012215615199" style="zoom:80%;" />
 </p>
 
 
@@ -42,7 +42,7 @@ Karmaşıklık, Notion dünyasına ilk adımı attığımdan beri peşimi bırak
 Overengineering kavramını açıklamak için en sık kullanılan örneklerden birisi, II.Dünya Savaşı'nda kullanılan King Tiger tankları. 
 
 <p align="center">
-    <img src="/postphoto/image-20201021203105087.png" alt="image-20201021203105087" style="zoom: 50%;" />
+    <img src="/postphoto/asiri_muhendislik/image-20201021203105087.png" alt="image-20201021203105087" style="zoom: 50%;" />
 </p>
 
 Hitler'in "ne kadar büyük o kadar iyi" mentalitesini belki duymuşsunuzdur. Bu mentalitenin en büyük eserlerini II.Dünya Savaşı sırasında Nazi Almanyası'nda gördük. 5 tonluk **Panzer** tankı ile başlayan Alman tankları, Ferdinand Porsche'nin yaptığı (evet, Porsche'nin kurucusu) devasa Maus tankına kadar büyüyecekti (10 metre uzunluğunda, 188 ton ağırlığında).
