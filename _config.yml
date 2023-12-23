@@ -1,6 +1,6 @@
 # main text of home
 name: Deniz Arda Aslan
-bio: engineer, learner, reader...
+bio: Engineer, mostly deals with data, part time barista.
 
 # twitter summary info
 description: Mühendislik, verimlilik ve teknoloji üzerine yazılar.
@@ -9,6 +9,10 @@ description: Mühendislik, verimlilik ve teknoloji üzerine yazılar.
 # better with square images
 external-image: false
 picture: assets/images/profile3.jpg
+
+# your site color theme, true for dark theme, 
+# false to light theme, auto to switch with system.
+dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -24,38 +28,23 @@ permalink: /:title/
 # To enable google analytics, supply your token below
 analytics-google: 'G-HQKW5D3WFM'
 
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: https-denizardaslan-github-io # enter this from your disqus account
+  shortname: github # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-# pinterest: mypinterest
 linkedin: denizardaslan
-# youtube: myyoutube
-# spotify: myspotify
-
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
+# github: mygithub
 email: denizardaslan@gmail.com
 
 authors:
   deniz:
     name: Deniz Arda Aslan
-    bio: A Man who travels to the somewhere with shortest path.
+    bio: Engineer, mostly deals with data, part time barista.
     external-image: false
     picture: assets/images/profile3.jpg
     twitter: denizardaslan
@@ -64,14 +53,6 @@ authors:
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
 width: large
-
-# if you do/don't need pagination, toggle 'enabled' between true/false below
-pagination:
-  enabled: false
-  sort_reverse: true # display recent posts first
-  title: ":title" # Changing this will mess up the header display logic
-  per_page: 5
-  permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
@@ -113,11 +94,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-admin
-  - jekyll-paginate-v2
-
-jekyll-mentions:
-  base_url: https://github.com
 
 compress_html:
   ignore:
@@ -127,11 +103,9 @@ compress_html:
 
 exclude:
   [
-    "travis.sh",
     "README.md",
     "Gemfile",
     "Gemfile.lock",
     "FAQ.md",
-    "node_modules",
     "vendor",
   ]
